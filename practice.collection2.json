@@ -1,0 +1,390 @@
+[{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d743"
+  },
+  "category": "Defibrillator",
+  "brand": "Phillips",
+  "product_name": "HeartStart FR3",
+  "warranty": "2 years",
+  "stock_availability": 25
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d744"
+  },
+  "category": "Patient Monitor",
+  "brand": "GE Healthcare",
+  "product_name": "Carescape B850",
+  "warranty": "3 years",
+  "stock_availability": 15
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d745"
+  },
+  "category": "SPO2 Monitor",
+  "brand": "Masimo",
+  "product_name": "Rad-97",
+  "warranty": "1 year",
+  "stock_availability": 30
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d746"
+  },
+  "category": "NIBP Kit",
+  "brand": "Welch Allyn",
+  "product_name": "Spot Vital Signs 4400",
+  "warranty": "2 years",
+  "stock_availability": 20
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d747"
+  },
+  "category": "Syringe Pump",
+  "brand": "Baxter",
+  "product_name": "SIGMA Spectrum",
+  "warranty": "2 years",
+  "stock_availability": 10
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d748"
+  },
+  "category": "Pulse Oximeter",
+  "brand": "Nellcor",
+  "product_name": "N-600x",
+  "warranty": "1 year",
+  "stock_availability": 18
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d749"
+  },
+  "category": "Electrocardiogram (ECG) Machine",
+  "brand": "Schiller",
+  "product_name": "Cardiovit AT-102",
+  "warranty": "2 years",
+  "stock_availability": 12
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d74a"
+  },
+  "category": "NIBP Kit",
+  "brand": "Omron",
+  "product_name": "Evolve Bluetooth Upper Arm Blood Pressure Monitor",
+  "warranty": "2 years",
+  "stock_availability": 20
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d74b"
+  },
+  "category": "Nebulizer",
+  "brand": "Philips Respironics",
+  "product_name": "InnoSpire Go Portable Mesh Nebulizer",
+  "warranty": "1 year",
+  "stock_availability": 15
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d74c"
+  },
+  "category": "Syringe Pump",
+  "brand": "BD",
+  "product_name": "Alaris™ GH Guardrails™ Syringe Pump",
+  "warranty": "3 years",
+  "stock_availability": 25
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d74d"
+  },
+  "category": "Patient Monitor",
+  "brand": "Mindray",
+  "product_name": "ePM 10 Patient Monitor",
+  "warranty": "2 years",
+  "stock_availability": 18
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d74e"
+  },
+  "category": "Defibrillator",
+  "brand": "Physio-Control",
+  "product_name": "LIFEPAK 15 Monitor/Defibrillator",
+  "warranty": "4 years",
+  "stock_availability": 12
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d74f"
+  },
+  "category": "ECG Machine",
+  "brand": "Cardiac Science",
+  "product_name": "Burdick 8500 ECG",
+  "warranty": "2 years",
+  "stock_availability": 22
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d750"
+  },
+  "category": "Pulse Oximeter",
+  "brand": "Nonin Medical",
+  "product_name": "Onyx Vantage 9590 Finger Pulse Oximeter",
+  "warranty": "1 year",
+  "stock_availability": 30
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d751"
+  },
+  "category": "SPO2 Sensor",
+  "brand": "Masimo",
+  "product_name": "LNCS DCI Adult Clip Sensor",
+  "warranty": "1 year",
+  "stock_availability": 28
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d752"
+  },
+  "category": "NIBP Kit",
+  "brand": "A&D Medical",
+  "product_name": "UA-767F Blood Pressure Monitor",
+  "warranty": "2 years",
+  "stock_availability": 17
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d753"
+  },
+  "category": "Nebulizer",
+  "brand": "PARI",
+  "product_name": "PARI Vios Pro Nebulizer",
+  "warranty": "2 years",
+  "stock_availability": 20
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d754"
+  },
+  "category": "Syringe Pump",
+  "brand": "Terumo",
+  "product_name": "TE-331 Syringe Pump",
+  "warranty": "1 year",
+  "stock_availability": 16
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d755"
+  },
+  "category": "Patient Monitor",
+  "brand": "Spacelabs Healthcare",
+  "product_name": "XPREZZON Patient Monitor",
+  "warranty": "3 years",
+  "stock_availability": 23
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d756"
+  },
+  "category": "Defibrillator",
+  "brand": "ZOLL",
+  "product_name": "AED Plus Automated External Defibrillator",
+  "warranty": "5 years",
+  "stock_availability": 14
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d757"
+  },
+  "category": "ECG Machine",
+  "brand": "Welch Allyn",
+  "product_name": "CP 150 ECG",
+  "warranty": "2 years",
+  "stock_availability": 19
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d758"
+  },
+  "category": "Pulse Oximeter",
+  "brand": "Smiths Medical",
+  "product_name": "BritePro Solo Handheld Pulse Oximeter",
+  "warranty": "1 year",
+  "stock_availability": 27
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d759"
+  },
+  "category": "SPO2 Sensor",
+  "brand": "Covidien",
+  "product_name": "Nellcor OxiMax DS-100A Adult Finger Clip Sensor",
+  "warranty": "1 year",
+  "stock_availability": 29
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d75a"
+  },
+  "category": "NIBP Kit",
+  "brand": "SunTech Medical",
+  "product_name": "Tango M2 Blood Pressure Monitor",
+  "warranty": "2 years",
+  "stock_availability": 21
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d75b"
+  },
+  "category": "Nebulizer",
+  "brand": "Drive DeVilbiss",
+  "product_name": "Pulmo-Aide Compact Compressor Nebulizer",
+  "warranty": "2 years",
+  "stock_availability": 19
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d75c"
+  },
+  "category": "Syringe Pump",
+  "brand": "Hospira",
+  "product_name": "Plum A+ Infusion System",
+  "warranty": "3 years",
+  "stock_availability": 18
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d75d"
+  },
+  "category": "Patient Monitor",
+  "brand": "Infinium Medical",
+  "product_name": "Omni III Patient Monitor",
+  "warranty": "2 years",
+  "stock_availability": 24
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d75e"
+  },
+  "category": "Defibrillator",
+  "brand": "CU Medical",
+  "product_name": "i-PAD SP1 Automated External Defibrillator",
+  "warranty": "4 years",
+  "stock_availability": 13
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d75f"
+  },
+  "category": "ECG Machine",
+  "brand": "Schiller",
+  "product_name": "AT-104 PC ECG",
+  "warranty": "2 years",
+  "stock_availability": 20
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d760"
+  },
+  "category": "Pulse Oximeter",
+  "brand": "Contec Medical Systems",
+  "product_name": "CMS50D Pulse Oximeter",
+  "warranty": "1 year",
+  "stock_availability": 26
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d761"
+  },
+  "category": "SPO2 Sensor",
+  "brand": "Edan",
+  "product_name": "Edan SpO2 Sensor",
+  "warranty": "1 year",
+  "stock_availability": 31
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d762"
+  },
+  "category": "NIBP Kit",
+  "brand": "ChoiceMMed",
+  "product_name": "Blood Pressure Monitor MD2300",
+  "warranty": "2 years",
+  "stock_availability": 16
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d763"
+  },
+  "category": "Nebulizer",
+  "brand": "Westmed",
+  "product_name": "AeroEclipse II Breath Actuated Nebulizer",
+  "warranty": "2 years",
+  "stock_availability": 18
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d764"
+  },
+  "category": "Syringe Pump",
+  "brand": "Smiths Medical",
+  "product_name": "CADD-Solis VIP Ambulatory Infusion Pump",
+  "warranty": "3 years",
+  "stock_availability": 17
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d765"
+  },
+  "category": "Patient Monitor",
+  "brand": "Edan",
+  "product_name": "M3 Vital Signs Monitor",
+  "warranty": "2 years",
+  "stock_availability": 25
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d766"
+  },
+  "category": "Defibrillator",
+  "brand": "Schiller",
+  "product_name": "Fred PA-1 Public Access Defibrillator",
+  "warranty": "5 years",
+  "stock_availability": 11
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d767"
+  },
+  "category": "ECG Machine",
+  "brand": "GE Healthcare",
+  "product_name": "MAC 600 ECG",
+  "warranty": "2 years",
+  "stock_availability": 21
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d768"
+  },
+  "category": "Pulse Oximeter",
+  "brand": "ChoiceMMed",
+  "product_name": "Fingertip Pulse Oximeter MD300C1",
+  "warranty": "1 year",
+  "stock_availability": 28
+},
+{
+  "_id": {
+    "$oid": "65d826c516af3db868b9d769"
+  },
+  "category": "SPO2 Sensor",
+  "brand": "Dräger",
+  "product_name": "Dräger SpO2 Sensor",
+  "warranty": "1 year",
+  "stock_availability": 33
+}]

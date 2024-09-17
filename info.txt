@@ -1,28 +1,4 @@
-items to be included
-# navbar [position : starting of page]
-- companey logo
-- home
-- about
-- products (companey wise, catagory wise) (list out in dropdown, very brief)
-- contact us
-- search bar (search by catagory, name or companey) (gives a drop down while searching and opens in main page when entered)
-
-# footer [position : ending of page]
-- contact info (email, phone no, address)
-- get in touch (linkedin, submit contact info)
-- copyrights
-
-## center content 
-# about page (displays about what we are and motto and services we provide)
-# home page (very brief info of products, display of few main products)
-# products[list] (list of all the products)
-# product[display] (info of a product incl images price and description and download catalogue option)
-
 ## dropdows and popups
 # popup for provide contact info
 # dropdown of products list of navbar
 # dropdown of search bar
-
-slider on home page
-personal info of customer while downloading catalogue or contact us clicked 
-partners enlisted on home page
